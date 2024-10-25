@@ -11,4 +11,4 @@ Hello! I'm a passionate web developer eager to create stunning websites and appl
 - **Node.js** 🌳
 - **Tailwind CSS** 🌊
 
-![](https://komarev.com/ghpvc/?username=kraken300)
+
