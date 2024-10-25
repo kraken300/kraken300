@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to My Portfolio!
 
-<!--
-**kraken300/kraken300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate web developer eager to create stunning websites and applications. Explore my projects and feel free to reach out!
 
-Here are some ideas to get you started:
+## 🌐 Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML** 🏗️
+- **CSS** 🎨
+- **JavaScript** 📜
+- **React** ⚛️
+- **Node.js** 🌳
+- **Tailwind CSS** 🌊
+
+![](https://komarev.com/ghpvc/?username=kraken300)
