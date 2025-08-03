@@ -8,7 +8,6 @@ Hello! I'm a passionate web developer eager to create stunning websites and appl
 - **CSS** 🎨
 - **JavaScript** 📜
 - **React** ⚛️
-- **Node.js** 🌳
+- **Java** 🌳
 - **Tailwind CSS** 🌊
 
-![](https://komarev.com/ghpvc/?username=kraken300)
